@@ -6,7 +6,7 @@ Ferntree Gully North Newsletter - Under the Gum Tree!
 
 Other documentation:
 
-* [Deployment](docs/DEPLOMYENT.md)
+* [Deployment](docs/DEPLOYMENT.md)
 
 ## Meet the team!
 
@@ -23,8 +23,8 @@ Other documentation:
 
 * Manage publishing and release schedule
 * Source content from students across 5/6
-* Edit content and ensure it meets our [guidelines](docs/GUIDELINES.md) and 
-  [code of conduct](#code-of-conduct)
+* Edit content and ensure it meets our [guidelines](docs/GUIDELINES.md) and
+  [code of conduct](docs/CODE_OF_CONDUCT.md)
 
 ### Web Design (Cloe + Laura)
 
@@ -48,7 +48,3 @@ Other documentation:
 * Creating and curating amazing games
 * Drafting accompanying content explaining why the game is included in the edition
   (e.g. perhaps it has significant meaning, pop-culture references etc.)
-
-## Code of conduct
-
-[Insert agreed team ethics / conduct here]
