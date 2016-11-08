@@ -7,6 +7,8 @@ Ferntree Gully North Newsletter - Under the Gum Tree!
 Other documentation:
 
 * [Deployment](docs/DEPLOYMENT.md)
+* [Code of Conduct](docs/CODE_OF_CONDUCT.md)
+* [Content Guidelines](docs/GUIDELINES.md)
 
 ## Meet the team!
 
