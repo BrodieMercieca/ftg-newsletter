@@ -17,7 +17,7 @@
 }
 
 header {
-  background: tomato;
+  background: yellow;
   display: flex;
   flex-direction: row;
 }
